@@ -7,7 +7,6 @@ Quack engine, an open-source search engine project based on quack search engine 
 
 url: quacksearch.github.io.git
 
-
 ## Technologies with quack engine
 
 ![Bootstrap](/assets/img/technologies/Bootstrap_logo.png)
