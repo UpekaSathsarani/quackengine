@@ -68,7 +68,7 @@ foreach($indexes as $index) {
                 if($quary==NULL){
                     // something-wrong-here
                 }
-                else if($quary=="technology"){
+                else if($quary=="technology"|| $quary=="Technology"){
 
                     foreach($indexes as $index) {
                         echo "<span>Quary: ".$quary."</span>";
